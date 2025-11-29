@@ -79,8 +79,11 @@ This directory contains the generated HTML file with your **interactive citation
 
 
 
-## 🙌 Credits
+## 🏆 Acknowledgements
 
-CiteWorld is created and maintained by **Liqiang Jing**.
+This project is based on and inspired by:
 
-Enjoy generating your citation world map 🌍!
+[https://github.com/ChenLiu-1996/CitationMap](https://github.com/ChenLiu-1996/CitationMap)
+
+Thanks to the original author for providing the foundation and ideas for this project.
+
